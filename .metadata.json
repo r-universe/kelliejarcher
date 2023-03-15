@@ -1,6 +1,21 @@
 [
   {
+    "package": "countgmifs",
+    "oncran": true
+  },
+  {
+    "package": "glmnetcr",
+    "oncran": true
+  },
+  {
+    "package": "glmpathcr",
+    "oncran": true
+  },
+  {
     "package": "ordinalbayes",
     "oncran": true
+  },
+  {
+    "package": "ordinalgmifs"
   }
 ]
