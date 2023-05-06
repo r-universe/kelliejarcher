@@ -23,3 +23,8 @@
 	url = https://github.com/kelliejarcher/ordinalbayes
 	shallow = true
 	registered = true
+[submodule "ordinalgmifs"]
+	path = ordinalgmifs
+	url = https://github.com/cran/ordinalgmifs
+	shallow = true
+	registered = true
