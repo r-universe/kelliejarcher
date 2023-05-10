@@ -25,6 +25,6 @@
 	registered = true
 [submodule "ordinalgmifs"]
 	path = ordinalgmifs
-	url = https://github.com/cran/ordinalgmifs
+	url = https://github.com/kelliejarcher/ordinalgmifs
 	shallow = true
 	registered = true
