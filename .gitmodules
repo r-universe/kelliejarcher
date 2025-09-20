@@ -11,9 +11,6 @@
 [submodule "glmpathcr"]
 	path = glmpathcr
 	url = https://github.com/kelliejarcher/glmpathcr
-[submodule "hdcuremodels"]
-	path = hdcuremodels
-	url = https://github.com/kelliejarcher/hdcuremodels
 [submodule "ordinalbayes"]
 	path = ordinalbayes
 	url = https://github.com/kelliejarcher/ordinalbayes
