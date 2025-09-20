@@ -17,7 +17,3 @@
 [submodule "ordinalgmifs"]
 	path = ordinalgmifs
 	url = https://github.com/kelliejarcher/ordinalgmifs
-[submodule "srr"]
-	path = srr
-	url = https://github.com/ropensci-review-tools/srr
-	registered = false
