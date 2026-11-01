@@ -13,7 +13,7 @@
 	url = https://github.com/kelliejarcher/glmpathcr
 [submodule "hdcuremodels"]
 	path = hdcuremodels
-	url = https://github.com/cran/hdcuremodels
+	url = https://github.com/kelliejarcher/hdcuremodels
 [submodule "mixor"]
 	path = mixor
 	url = https://github.com/kelliejarcher/mixor
